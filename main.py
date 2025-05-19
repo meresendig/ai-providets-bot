@@ -4,7 +4,7 @@ import requests
 import json
 
 API_TOKEN = '7659610571:AAFhbF0NT101W7RTTzNjEWil4sO7d44KQ1s'
-SERVER_URL = 'https://your-backend-url.com'  # замените на реальный backend url
+SERVER_URL = "https://web-production-71f8.up.railway.app"  # замените на реальный backend url
 
 logging.basicConfig(level=logging.INFO)
 
