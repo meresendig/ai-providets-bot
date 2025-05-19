@@ -1,5 +1,5 @@
 aiogram==2.25.2
 requests
-aiohttp
+aiohttp==3.8.1
 python-multipart
 python-dotenv
